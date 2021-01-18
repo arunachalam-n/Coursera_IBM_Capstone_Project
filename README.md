@@ -1,8 +1,6 @@
 # Coursera_IBM_Capstone_Project
 This repo is created for the final submission of the IBM_DataScience_Pofessional Certificate Capstone Project
 
-
-Description
 1. We'll web scrape from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M the postal codes of Toronto.<br>
 2. We'll convert addresses into their equivalent latitude and longitude values. <br>
 3. Also, by using Foursquare API to explore neighborhoods in Toronto. <br>
